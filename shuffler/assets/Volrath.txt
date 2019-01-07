@@ -1,0 +1,77 @@
+1 All Is Dust
+1 Ancient Tomb
+1 Archfiend of Despair
+1 Arguel's Blood Fast
+1 Artisan of Kozilek
+1 Beseech the Queen
+1 Blightsteel Colossus
+1 Bubbling Muck
+1 Cabal Coffers
+1 Cabal Stronghold
+1 Crypt Ghast
+1 Damnation
+1 Dark Depths
+1 Deadly Tempest
+1 Decree of Pain
+1 Demonic Tutor
+1 Draco
+1 Emrakul, the Promised End
+1 Entomb
+1 Entreat the Dead
+1 Erebos, God of the Dead
+1 Expedition Map
+1 Filth
+1 Fleetfeather Sandals
+1 Graveborn Muse
+1 Grim Monolith
+1 Hall of the Bandit Lord
+1 Homeward Path
+1 Imp's Mischief
+1 Imperial Seal
+1 It That Betrays
+1 Karn Liberated
+1 Kozilek, Butcher of Truth
+1 Lightning Greaves
+1 Liliana of the Dark Realms
+1 Liliana Vess
+1 Mana Crypt
+1 Mana Vault
+1 Necromancy
+1 Necropotence
+1 Not of This World
+1 Nykthos, Shrine to Nyx
+1 Pathrazer of Ulamog
+1 Pestilence Demon
+1 Phage the Untouchable
+1 Phyrexian Arena
+1 Phyrexian Reclamation
+1 Quicksilver Amulet
+1 Rime Transfusion
+1 Rogue's Passage
+1 Rune-Scarred Demon
+1 Scroll Rack
+1 Scrying Sheets
+1 Sheoldred, Whispering One
+1 Shizo, Death's Storehouse
+24 Snow-Covered Swamp
+1 Sol Ring
+1 Sower of Discord
+1 Strands of Night
+1 Swiftfoot Boots
+1 Sword of Feast and Famine
+1 Sword of Fire and Ice
+1 Sword of Light and Shadow
+1 Tainted Strike
+1 Thespian's Stage
+1 Thief of Blood
+1 Thought Vessel
+1 Tower of the Magistrate
+1 Toxic Deluge
+1 Ulamog, the Ceaseless Hunger
+1 Ulamog, the Infinite Gyre
+1 Urborg, Tomb of Yawgmoth
+1 Vampiric Tutor
+1 Vedalken Orrery
+0 Volrath the Fallen
+1 Volrath's Stronghold
+1 Whispersilk Cloak

@@ -54,6 +54,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Shuffle.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,6 +66,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +80,94 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\ModernBurn.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="assets\Volrath.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Tower of the Magistrate.jpg" />
+    <None Include="Resources\CardBack.jpg" />
+    <None Include="Resources\Whispersilk Cloak.jpg" />
+    <None Include="Resources\Volrath%27s Stronghold.jpg" />
+    <None Include="Resources\Volrath the Fallen.jpg" />
+    <None Include="Resources\Vedalken Orrery.jpg" />
+    <None Include="Resources\Vampiric Tutor.jpg" />
+    <None Include="Resources\Urborg, Tomb of Yawgmoth.png" />
+    <None Include="Resources\Ulamog, the Infinite Gyre.png" />
+    <None Include="Resources\Ulamog, the Ceaseless Hunger.png" />
+    <None Include="Resources\Toxic Deluge.png" />
+    <None Include="Resources\Thought Vessel.png" />
+    <None Include="Resources\Thief of Blood.png" />
+    <None Include="Resources\Thespian%27s Stage.jpg" />
+    <None Include="Resources\Tainted Strike.jpg" />
+    <None Include="Resources\Sword of Light and Shadow.jpg" />
+    <None Include="Resources\Sword of Fire and Ice.jpg" />
+    <None Include="Resources\Sword of Feast and Famine.jpg" />
+    <None Include="Resources\Swiftfoot Boots.png" />
+    <None Include="Resources\Strands of Night.jpg" />
+    <None Include="Resources\Sower of Discord.png" />
+    <None Include="Resources\Sol Ring.jpg" />
+    <None Include="Resources\Snow-Covered Swamp.jpg" />
+    <None Include="Resources\Shizo, Death%27s Storehouse.jpg" />
+    <None Include="Resources\Sheoldred, Whispering One.png" />
+    <None Include="Resources\Scrying Sheets.jpg" />
+    <None Include="Resources\Scroll Rack.jpg" />
+    <None Include="Resources\Rune-Scarred Demon.png" />
+    <None Include="Resources\Rogue%27s Passage.png" />
+    <None Include="Resources\Rime Transfusion.jpg" />
+    <None Include="Resources\Quicksilver Amulet.jpg" />
+    <None Include="Resources\Phyrexian Reclamation.jpg" />
+    <None Include="Resources\Phyrexian Arena.jpg" />
+    <None Include="Resources\Phage the Untouchable.jpg" />
+    <None Include="Resources\Pestilence Demon.png" />
+    <None Include="Resources\Pathrazer of Ulamog.jpg" />
+    <None Include="Resources\Nykthos, Shrine to Nyx.jpg" />
+    <None Include="Resources\Not of This World.jpg" />
+    <None Include="Resources\Necropotence.png" />
+    <None Include="Resources\Necromancy.jpg" />
+    <None Include="Resources\Mana Vault.png" />
+    <None Include="Resources\Mana Crypt.jpg" />
+    <None Include="Resources\Liliana Vess.jpg" />
+    <None Include="Resources\Liliana of the Dark Realms.jpg" />
+    <None Include="Resources\Lightning Greaves.png" />
+    <None Include="Resources\Kozilek, Butcher of Truth.png" />
+    <None Include="Resources\Karn Liberated.png" />
+    <None Include="Resources\It That Betrays.png" />
+    <None Include="Resources\Imp%27s Mischief.jpg" />
+    <None Include="Resources\Imperial Seal.jpg" />
+    <None Include="Resources\ImageHT5CC0V5_jpg.png" />
+    <None Include="Resources\Image8U4GTUMN.jpg" />
+    <None Include="Resources\Homeward Path.png" />
+    <None Include="Resources\Hall of the Bandit Lord.jpg" />
+    <None Include="Resources\Grim Monolith.jpg" />
+    <None Include="Resources\Graveborn Muse.jpg" />
+    <None Include="Resources\Fleetfeather Sandals.jpg" />
+    <None Include="Resources\Filth.jpg" />
+    <None Include="Resources\Expedition Map.png" />
+    <None Include="Resources\Erebos, God of the Dead.jpg" />
+    <None Include="Resources\Entreat the Dead.png" />
+    <None Include="Resources\Entomb.jpg" />
+    <None Include="Resources\Emrakul, the Promised End.png" />
+    <None Include="Resources\Draco.jpg" />
+    <None Include="Resources\Demonic Tutor.jpg" />
+    <None Include="Resources\Decree of Pain.png" />
+    <None Include="Resources\Deadly Tempest.png" />
+    <None Include="Resources\Dark Depths.jpg" />
+    <None Include="Resources\Damnation.jpg" />
+    <None Include="Resources\Crypt Ghast.png" />
+    <None Include="Resources\Cabal Stronghold.png" />
+    <None Include="Resources\Cabal Coffers.jpg" />
+    <None Include="Resources\Bubbling Muck.jpg" />
+    <None Include="Resources\Blightsteel Colossus.jpg" />
+    <None Include="Resources\Beseech the Queen.png" />
+    <None Include="Resources\Artisan of Kozilek.png" />
+    <None Include="Resources\Arguel%27s Blood Fast.png" />
+    <None Include="Resources\Archfiend of Despair.png" />
+    <None Include="Resources\Ancient Tomb.png" />
+    <None Include="Resources\All Is Dust.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
